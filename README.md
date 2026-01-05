@@ -14,6 +14,13 @@ The email impersonated a trusted service and used urgency to prompt immediate us
 
 ---
 
+## Example Phishing Email (Real-World Source)
+
+The following screenshot shows the original phishing email used for this investigation.  
+This email impersonates DocuSign and uses an urgent termination agreement theme to pressure the recipient into clicking a malicious link.
+
+![Phishing Email – Fake DocuSign Termination](screenshots/phish-berkeley-source-original-message-docusign-termination.png)
+
 ## Investigation Summary
 The phishing email was investigated using a structured SOC methodology:
 
